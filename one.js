@@ -1,0 +1,1 @@
+const own = 1;
