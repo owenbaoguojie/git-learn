@@ -1,1 +1,1 @@
-const own = 1;
+const own = 2;
